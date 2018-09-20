@@ -10,7 +10,6 @@ import pandas as pd
 import numpy as np
 from numpy import *
 from pandas.tseries.offsets import *
-import matplotlib.pyplot as plt
 from scipy import stats
 
 #########################################################################
